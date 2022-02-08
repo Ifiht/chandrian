@@ -1,0 +1,8 @@
+.cache/
+.cargo/
+.conda/
+.crates.toml
+.crates2.json
+.ipynb_checkpoints
+.jupyter/lab/workspaces/
+.local/
