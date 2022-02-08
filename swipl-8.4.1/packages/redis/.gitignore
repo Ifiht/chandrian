@@ -1,0 +1,13 @@
+*~
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.dSYM
+*.dll
+*.exp
+*.ilk
+*.lib
+*.pdb
+TAGS
