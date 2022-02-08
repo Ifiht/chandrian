@@ -1,0 +1,9 @@
+_HiStOrY_V2_
+use_module(library(clpfd)).
+Chickens\040+\040Cows\040#=\04030,\012\040\040\040Chickens*2\040+\040Cows*4\040#=\04074,\012\040\040\040Chickens\040in\0400..sup,\012\040\040\040Cows\040in\0400..sup.
+halt.
+absolute_file_name(app_config(.),\040Dir,\040[file_type(directory)]).
+halt.
+Chickens\040+\040Cows\040#=\04030,\012\040\040\040Chickens*2\040+\040Cows*4\040#=\04074,\012\040\040\040Chickens\040in\0400..sup,\012\040\040\040Cows\040in\0400..sup.
+Chickens\040+\040Cows\040#=\04030,\012\040\040\040Chickens*2\040+\040Cows*4\040#=\04074,\012\040\040\040Chickens\040in\0400..sup.
+halt.
