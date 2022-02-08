@@ -1,8 +1,0 @@
-languageserveroverview.tex
-languageserverlib.tex
-__pycache__
-*~
-.idea/
-env/
-dist/
-swiplserver.egg-info/

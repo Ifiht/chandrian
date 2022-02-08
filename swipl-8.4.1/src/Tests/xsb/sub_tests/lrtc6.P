@@ -1,3 +1,0 @@
-:- include('Driver').
-
-go :- lrtc('X8','Data/tree').

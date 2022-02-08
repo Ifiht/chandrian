@@ -1,3 +1,0 @@
-:- [incremental1_1].
-
-test:- test_seq.
